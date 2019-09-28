@@ -1,4 +1,4 @@
-# Example C# .NET Core 3.0 Release with connect MySQL via EFCore Library
+# Example C# .NET Core 3.0 Release and ReadyToRun with connect MySQL via EFCore Library
 
 ## Preparing
 
